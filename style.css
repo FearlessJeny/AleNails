@@ -21,7 +21,7 @@ body {
     padding: calc(var(--gap) / 1.25);
 }
 
-.item {
+.item img {
     margin-bottom: var(--gap);
 }
 
